@@ -1,0 +1,10 @@
+db.inventories.updateOne(
+  {
+ "product_id": "prod_001"
+},
+{
+ "$inc": {
+  "stock": -2
+ }
+}
+)

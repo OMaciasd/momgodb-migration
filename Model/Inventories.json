@@ -1,0 +1,6 @@
+{
+ "_id": "inv_1",
+ "warehouse_id": "wh_1",
+ "product_id": "prod_1",
+ "stock": 20
+}

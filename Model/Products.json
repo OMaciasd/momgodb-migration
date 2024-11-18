@@ -1,0 +1,7 @@
+{
+ "_id": "prod_1",
+ "name": "Laptop",
+ "category_id": "cat_1",
+ "price": 1500,
+ "inventory_id": "inv_1"
+}
